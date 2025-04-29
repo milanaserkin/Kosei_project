@@ -33,7 +33,7 @@ Our app helps users scan grocery products and receive tailored recommendations b
 ## 🚀 Live Website
 
 Check out the project website here:  
-👉 
+👉 https://github.com/ArchdukePierreBubblebath/Kosei
 
 ---
 
